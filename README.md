@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bem-vindo ao meu  perfil 👋
 
-<!--
-**johnny-jw18/Johnny-JW18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 💻 Desenvolvedor de software
+- 🌱 Atualmente aprendendo novas tecnologias
+- 📫 Como me encontrar: johnniewalkerblu18@gmail.com
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens: C#, T-SQL
+- Frameworks: .NET, Entity Framework
+- Banco de Dados: SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mais Sobre Mim
+- 🔭 I’m currently working on a new enterprise application using C# and SQL Server.
+- 🌱 I’m currently learning advanced .NET Core and microservices architecture.
+- 👯 I’m looking to collaborate on open-source projects involving C# and database optimization.
+  
+- 💬 Ask me about backend development and database design.
+
+
+
